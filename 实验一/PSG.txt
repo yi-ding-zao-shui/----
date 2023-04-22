@@ -1,0 +1,4 @@
+S,T
+a,b,c,0,1,2,3
+S->aT|bT|cT,T->.|a|b|c|0|1|2|3|aT|bT|cT|0T|1T|2T|3T
+S

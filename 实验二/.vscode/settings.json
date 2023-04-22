@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "MAIN.C": "cpp",
+        "UTIL.C": "cpp",
+        "SCAN.C": "cpp"
+    }
+}

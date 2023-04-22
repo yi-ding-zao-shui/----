@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "MAIN.C": "cpp",
+        "SCAN.C": "cpp",
+        "UTIL.C": "cpp"
+    }
+}
