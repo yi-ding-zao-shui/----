@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "MAIN.C": "cpp",
+        "SCAN.C": "cpp",
+        "UTIL.C": "cpp",
+        "PARSE.C": "cpp",
+        "new": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "istream": "cpp"
+    }
+}

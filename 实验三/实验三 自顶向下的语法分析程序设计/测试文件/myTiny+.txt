@@ -1,0 +1,20 @@
+{hi}
+bool a,b,c,$;
+string d,e,f;
+float g,h,i;
+double j,k,l;
+int f1,f2,f3,n;
+f1:=1;
+f2:=1;
+d:='parser';
+read n;
+if (0<n) then
+    do
+        f3:=f1+f2;
+        f2:=f3;
+        f1:=f2;
+        n:=n-1
+    while (0<=n);
+    write f3
+end
+

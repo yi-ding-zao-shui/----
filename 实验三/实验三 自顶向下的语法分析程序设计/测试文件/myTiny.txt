@@ -1,0 +1,14 @@
+{this is an example}
+f1:=1;
+f2:=1;
+read n;
+if (0<n) then
+    repeat
+        f3:=f1+f2;
+        f2:=f3;
+        f1:=f2;
+        n:=n-1
+    until n=0;
+    write f3
+end
+
