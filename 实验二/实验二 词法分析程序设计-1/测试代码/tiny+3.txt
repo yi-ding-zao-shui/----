@@ -2,6 +2,7 @@ A:=A**2;
 100 1041 1421
 A:=A%3;
 A:=A/100;
+A:A;
 $
 string s:='hello
 dada}
